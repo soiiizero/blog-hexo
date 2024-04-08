@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/soiiizero/soiiizero.github.io
+  repo: https://github.com/soiiizero/blog-hexo
   branch: main
