@@ -1,7 +1,7 @@
 ---
 title: 关于Ubuntu、Linux相关的常识记录
-top_img: /img/1.1.jpg
-cover: /img/1.1.jpg
+top_img: /img/cover4.jpg
+cover: /img/cover4.jpg
 tags:
   - Ubuntu
   - Linux

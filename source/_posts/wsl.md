@@ -1,8 +1,8 @@
 ---
 title: 安装并使用WSL
 date: 2024-04-12 22:51:35
-top_img: /img/1.3.jpg
-cover: /img/1.3.jpg
+top_img: /img/cover5.jpg
+cover: /img/cover5.jpg
 tags:
   - OS
   - WSL

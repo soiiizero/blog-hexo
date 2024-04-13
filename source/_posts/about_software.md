@@ -1,8 +1,8 @@
 ---
 title: Linux软件包管理
 date: 2024-04-13 22:04:35
-top_img: /img/1.2.jpg
-cover: /img/1.2.jpg
+top_img: /img/cover3.jpg
+cover: /img/cover3.jpg
 tags:
   - OS
   - Ubuntu
